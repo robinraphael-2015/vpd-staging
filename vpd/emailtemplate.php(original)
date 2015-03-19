@@ -1,0 +1,32 @@
+<?php 
+ini_set('memory_limit', '-1');  
+set_time_limit(0);
+error_reporting(E_ALL | E_STRICT);
+ini_set('display_errors', 1);
+require_once 'app/Mage.php';
+umask(0);
+Mage::app('admin');
+Mage::getSingleton('core/session', array('name' => 'adminhtml'));
+$websiteId = 1;
+ini_set('display_errors', 1);
+echo $storeId = Mage::app()->getStore();
+Mage::app()->setCurrentStore($storeId);
+Mage::log('Checking');
+echo $templateId = 5;
+
+        // Set sender information
+        $senderName = Mage::getStoreConfig('trans_email/ident_support/name');
+        $senderEmail = Mage::getStoreConfig('trans_email/ident_support/email');
+        $sender = array('name' => $senderName,
+                    'email' => $senderEmail);
+
+        // Set recepient information
+               
+        //$recepientEmail[0] = 'menon_sreepriya@yahoo.com';
+         $recepientEmail = 'raphaelbabugeorge@gmail.com';
+          $vars['total_count'] = count($csv_sheet);
+        $transactionalEmail = Mage::getModel('core/email_template')
+            ->setDesignConfig(array('area' => 'frontend', 'store' => $storeId));
+            $transactionalEmail
+            ->sendTransactional($templateId, $sender,  $recepientEmail, $recepientName, $vars, $storeId, $pdf_attachment);
+?>
