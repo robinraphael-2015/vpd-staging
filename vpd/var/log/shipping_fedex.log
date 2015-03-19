@@ -1,0 +1,2352 @@
+2014-11-11T14:03:45+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-11T14:03:44+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 6012.81
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 6012.81
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PRESORTED_STANDARD
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 809
+                    [Message] => Package 1 - Weight is missing or invalid. 
+                    [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                    [MessageParameters] => stdClass Object
+                        (
+                            [Id] => PACKAGE_INDEX
+                            [Value] => 1
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 15388
+)
+
+2014-11-11T14:03:45+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-11T14:03:45+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 6012.81
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 6012.81
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 6012.81
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 809
+                            [Message] => Package 1 - Weight is missing or invalid. 
+                            [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                            [MessageParameters] => stdClass Object
+                                (
+                                    [Id] => PACKAGE_INDEX
+                                    [Value] => 1
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 960
+                            [Message] => Insured Value is not allowed for SmartPost.
+                            [LocalizedMessage] => Insured Value is not allowed for SmartPost.
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 15388
+)
+
+2014-11-11T14:03:45+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-11T14:03:45+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 6012.81
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 6012.81
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PRESORTED_STANDARD
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 809
+                    [Message] => Package 1 - Weight is missing or invalid. 
+                    [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                    [MessageParameters] => stdClass Object
+                        (
+                            [Id] => PACKAGE_INDEX
+                            [Value] => 1
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 15388
+)
+
+2014-11-11T14:03:46+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-11T14:03:45+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 6012.81
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 6012.81
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 6012.81
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 809
+                            [Message] => Package 1 - Weight is missing or invalid. 
+                            [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                            [MessageParameters] => stdClass Object
+                                (
+                                    [Id] => PACKAGE_INDEX
+                                    [Value] => 1
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 960
+                            [Message] => Insured Value is not allowed for SmartPost.
+                            [LocalizedMessage] => Insured Value is not allowed for SmartPost.
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 15388
+)
+
+2014-11-12T12:24:40+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:24:39+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PRESORTED_STANDARD
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 809
+                    [Message] => Package 1 - Weight is missing or invalid. 
+                    [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                    [MessageParameters] => stdClass Object
+                        (
+                            [Id] => PACKAGE_INDEX
+                            [Value] => 1
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 27550
+)
+
+2014-11-12T12:24:40+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:24:40+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 171.74
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 809
+                            [Message] => Package 1 - Weight is missing or invalid. 
+                            [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                            [MessageParameters] => stdClass Object
+                                (
+                                    [Id] => PACKAGE_INDEX
+                                    [Value] => 1
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 960
+                            [Message] => Insured Value is not allowed for SmartPost.
+                            [LocalizedMessage] => Insured Value is not allowed for SmartPost.
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 27550
+)
+
+2014-11-12T12:24:52+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:24:51+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => -
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PRESORTED_STANDARD
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 809
+                    [Message] => Package 1 - Weight is missing or invalid. 
+                    [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                    [MessageParameters] => stdClass Object
+                        (
+                            [Id] => PACKAGE_INDEX
+                            [Value] => 1
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 29893
+)
+
+2014-11-12T12:24:52+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:24:52+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => -
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 171.74
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 809
+                            [Message] => Package 1 - Weight is missing or invalid. 
+                            [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                            [MessageParameters] => stdClass Object
+                                (
+                                    [Id] => PACKAGE_INDEX
+                                    [Value] => 1
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 960
+                            [Message] => Insured Value is not allowed for SmartPost.
+                            [LocalizedMessage] => Insured Value is not allowed for SmartPost.
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 29893
+)
+
+2014-11-12T12:24:54+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:24:54+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PRESORTED_STANDARD
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 809
+                    [Message] => Package 1 - Weight is missing or invalid. 
+                    [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                    [MessageParameters] => stdClass Object
+                        (
+                            [Id] => PACKAGE_INDEX
+                            [Value] => 1
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 28054
+)
+
+2014-11-12T12:24:54+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:24:54+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 171.74
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 809
+                            [Message] => Package 1 - Weight is missing or invalid. 
+                            [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                            [MessageParameters] => stdClass Object
+                                (
+                                    [Id] => PACKAGE_INDEX
+                                    [Value] => 1
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 960
+                            [Message] => Insured Value is not allowed for SmartPost.
+                            [LocalizedMessage] => Insured Value is not allowed for SmartPost.
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 28054
+)
+
+2014-11-12T12:24:55+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:24:55+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PRESORTED_STANDARD
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 809
+                    [Message] => Package 1 - Weight is missing or invalid. 
+                    [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                    [MessageParameters] => stdClass Object
+                        (
+                            [Id] => PACKAGE_INDEX
+                            [Value] => 1
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 28054
+)
+
+2014-11-12T12:24:55+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:24:55+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 171.74
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 809
+                            [Message] => Package 1 - Weight is missing or invalid. 
+                            [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                            [MessageParameters] => stdClass Object
+                                (
+                                    [Id] => PACKAGE_INDEX
+                                    [Value] => 1
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 960
+                            [Message] => Insured Value is not allowed for SmartPost.
+                            [LocalizedMessage] => Insured Value is not allowed for SmartPost.
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 28054
+)
+
+2014-11-12T12:24:59+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:24:59+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PRESORTED_STANDARD
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 809
+                    [Message] => Package 1 - Weight is missing or invalid. 
+                    [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                    [MessageParameters] => stdClass Object
+                        (
+                            [Id] => PACKAGE_INDEX
+                            [Value] => 1
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 15388
+)
+
+2014-11-12T12:25:00+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:24:59+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 171.74
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 809
+                            [Message] => Package 1 - Weight is missing or invalid. 
+                            [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                            [MessageParameters] => stdClass Object
+                                (
+                                    [Id] => PACKAGE_INDEX
+                                    [Value] => 1
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 960
+                            [Message] => Insured Value is not allowed for SmartPost.
+                            [LocalizedMessage] => Insured Value is not allowed for SmartPost.
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 15388
+)
+
+2014-11-12T12:25:02+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:25:01+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                )
+
+                        )
+
+                    [ServiceType] => SMART_POST
+                    [SmartPostDetail] => Array
+                        (
+                            [Indicia] => PRESORTED_STANDARD
+                            [HubId] => 
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => stdClass Object
+                (
+                    [Severity] => ERROR
+                    [Source] => crs
+                    [Code] => 809
+                    [Message] => Package 1 - Weight is missing or invalid. 
+                    [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                    [MessageParameters] => stdClass Object
+                        (
+                            [Id] => PACKAGE_INDEX
+                            [Value] => 1
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 15388
+)
+
+2014-11-12T12:25:02+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [WebAuthenticationDetail] => Array
+                (
+                    [UserCredential] => Array
+                        (
+                            [Key] => 5SP9rz7qws61Tsxd
+                            [Password] => J8QHGCQCjUvOVwdBu1nUmDUy8
+                        )
+
+                )
+
+            [ClientDetail] => Array
+                (
+                    [AccountNumber] => 337163076
+                    [MeterNumber] => 107191181
+                )
+
+            [Version] => Array
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+            [RequestedShipment] => Array
+                (
+                    [DropoffType] => REGULAR_PICKUP
+                    [ShipTimestamp] => 2014-11-12T12:25:02+00:00
+                    [PackagingType] => YOUR_PACKAGING
+                    [TotalInsuredValue] => Array
+                        (
+                            [Amount] => 171.74
+                            [Currency] => USD
+                        )
+
+                    [Shipper] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 90034
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [Recipient] => Array
+                        (
+                            [Address] => Array
+                                (
+                                    [PostalCode] => 85705
+                                    [CountryCode] => US
+                                    [Residential] => 
+                                )
+
+                        )
+
+                    [ShippingChargesPayment] => Array
+                        (
+                            [PaymentType] => SENDER
+                            [Payor] => Array
+                                (
+                                    [AccountNumber] => 337163076
+                                    [CountryCode] => US
+                                )
+
+                        )
+
+                    [CustomsClearanceDetail] => Array
+                        (
+                            [CustomsValue] => Array
+                                (
+                                    [Amount] => 171.74
+                                    [Currency] => USD
+                                )
+
+                        )
+
+                    [RateRequestTypes] => LIST
+                    [PackageCount] => 1
+                    [PackageDetail] => INDIVIDUAL_PACKAGES
+                    [RequestedPackageLineItems] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [Weight] => Array
+                                        (
+                                            [Value] => 0
+                                            [Units] => LB
+                                        )
+
+                                    [GroupPackageCount] => 1
+                                    [InsuredValue] => Array
+                                        (
+                                            [Amount] => 171.74
+                                            [Currency] => USD
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [result] => stdClass Object
+        (
+            [HighestSeverity] => ERROR
+            [Notifications] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 809
+                            [Message] => Package 1 - Weight is missing or invalid. 
+                            [LocalizedMessage] => Package 1 - Weight is missing or invalid. 
+                            [MessageParameters] => stdClass Object
+                                (
+                                    [Id] => PACKAGE_INDEX
+                                    [Value] => 1
+                                )
+
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [Severity] => ERROR
+                            [Source] => crs
+                            [Code] => 960
+                            [Message] => Insured Value is not allowed for SmartPost.
+                            [LocalizedMessage] => Insured Value is not allowed for SmartPost.
+                        )
+
+                )
+
+            [Version] => stdClass Object
+                (
+                    [ServiceId] => crs
+                    [Major] => 10
+                    [Intermediate] => 0
+                    [Minor] => 0
+                )
+
+        )
+
+    [__pid] => 15388
+)
+

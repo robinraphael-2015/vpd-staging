@@ -1,0 +1,264 @@
+2014-09-29T17:27:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 89: parser error : Opening and ending tag mismatch: events line 79 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:22+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:22+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: global line 31 and config  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:22+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:22+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 100: parser error : Premature end of data in tag config line 2  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:22+00:00 ERR (3): Warning: simplexml_load_string():   in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:22+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:26+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 89: parser error : Opening and ending tag mismatch: events line 79 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:26+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:26+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:26+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: global line 31 and config  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:26+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:26+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:26+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 100: parser error : Premature end of data in tag config line 2  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:26+00:00 ERR (3): Warning: simplexml_load_string():   in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:26+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 89: parser error : Opening and ending tag mismatch: events line 79 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:31+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:31+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: global line 31 and config  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:31+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:31+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 100: parser error : Premature end of data in tag config line 2  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:31+00:00 ERR (3): Warning: simplexml_load_string():   in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:31+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 89: parser error : Opening and ending tag mismatch: events line 79 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:40+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:40+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: global line 31 and config  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:40+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:40+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 100: parser error : Premature end of data in tag config line 2  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:40+00:00 ERR (3): Warning: simplexml_load_string():   in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:40+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 89: parser error : Opening and ending tag mismatch: events line 79 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:45+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:45+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: global line 31 and config  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:45+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:45+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 100: parser error : Premature end of data in tag config line 2  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:45+00:00 ERR (3): Warning: simplexml_load_string():   in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:45+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 89: parser error : Opening and ending tag mismatch: events line 79 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:46+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:46+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: global line 31 and config  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:46+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:46+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 100: parser error : Premature end of data in tag config line 2  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:46+00:00 ERR (3): Warning: simplexml_load_string():   in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:46+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 89: parser error : Opening and ending tag mismatch: events line 79 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:48+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:48+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: global line 31 and config  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:48+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:48+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 100: parser error : Premature end of data in tag config line 2  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:48+00:00 ERR (3): Warning: simplexml_load_string():   in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:48+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 89: parser error : Opening and ending tag mismatch: events line 79 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:52+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:52+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: global line 31 and config  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:52+00:00 ERR (3): Warning: simplexml_load_string(): &lt;/config&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:52+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:52+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 100: parser error : Premature end of data in tag config line 2  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:52+00:00 ERR (3): Warning: simplexml_load_string():   in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T17:27:52+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:08+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:09+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:18+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:19+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:23+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:28+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:29+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:31+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:32+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:34+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:35+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:36+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 86: parser error : Opening and ending tag mismatch: template line 79 and email  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): 		&lt;/email&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): 		        ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 87: parser error : Opening and ending tag mismatch: global line 31 and template  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/template&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): 	           ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 99: parser error : Opening and ending tag mismatch: config line 2 and global  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;/global&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 101: parser error : Extra content at the end of the document  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): 	&lt;crontab&gt;  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
+2014-09-29T18:43:39+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /opt/bitnami/apps/magento/htdocs/lib/Varien/Simplexml/Config.php on line 510
